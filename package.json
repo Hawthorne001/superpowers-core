@@ -54,7 +54,7 @@
   "dependencies": {
     "@types/cookie-parser": "^1.4.1",
     "@types/express-session": "^1.15.12",
-    "@types/yargs": "^12.0.9",
+    "@types/yargs": "^12.0.20",
     "async": "^1.5.2",
     "async-lock": "^0.3.8",
     "basic-auth": "^2.0.1",
