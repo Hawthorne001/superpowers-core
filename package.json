@@ -75,12 +75,12 @@
     "recursive-readdir": "^2.2.2",
     "resize-handle": "^5.0.0",
     "rimraf": "^2.6.3",
-    "socket.io": "^2.2.0",
+    "socket.io": "^3.0.0",
     "tab-strip": "^2.3.0",
     "tsscmp": "^1.0.6",
     "tv4": "^1.2.7",
     "typescript": "^3.3.3333",
-    "yargs": "^3.32.0",
+    "yargs": "^16.1.1",
     "yauzl": "^2.4.1"
   }
 }
